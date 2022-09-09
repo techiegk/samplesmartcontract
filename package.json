@@ -22,10 +22,6 @@
   "homepage": "https://github.com/pariveshkhandel/sampleethereum#readme",
   "devDependencies": {
     "mocha": "^9.2.1",
-    "mocha-junit-reporter": "^2.0.2",
     "truffle": "^5.5.2"
-  },
-  "dependencies": {
-    "ethereumjs-testrpc": "^6.0.3"
   }
 }
