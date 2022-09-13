@@ -8,4 +8,7 @@ module.exports = {
     // add a new network definition that will self host TestRP
   },
   // add a section for mocha defaults
+  mocha: {
+    reporter: "eth-gas-reporter"
+  }
 };
