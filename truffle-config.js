@@ -9,6 +9,10 @@ module.exports = {
   },
   // add a section for mocha defaults
   mocha: {
-    reporter: "eth-gas-reporter"
-  }
+    reporter: "eth-gas-reporter",
+    reporterOptions: {
+     excludeContracts: ['Migrations']
+    }
+  },
+  plugins: ["solidity-coverage"]
 };
