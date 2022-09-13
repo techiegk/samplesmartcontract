@@ -22,6 +22,7 @@
   "homepage": "https://github.com/pariveshkhandel/sampleethereum#readme",
   "devDependencies": {
     "mocha": "^9.2.1",
-    "truffle": "^5.5.2"
+    "truffle": "^5.5.2",
+    "eth-gas-reporter": "^0.2.25"
   }
 }
