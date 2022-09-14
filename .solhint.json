@@ -3,6 +3,7 @@
   "plugins": [],
   "rules": {
     "avoid-suicide": "warn",
-    "avoid-sha3": "warn"
+    "avoid-sha3": "warn",
+    "compiler-version": ["off",">=0.4.0 <0.9.0"]
   }
 }
