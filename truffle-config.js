@@ -14,5 +14,5 @@ module.exports = {
      excludeContracts: ['Migrations']
     }
   },
-  plugins: ['solidity-coverage'],
+  plugins: ['solidity-coverage', 'truffle-security'],
 };
