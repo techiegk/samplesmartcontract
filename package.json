@@ -22,6 +22,7 @@
   "homepage": "https://github.com/pariveshkhandel/sampleethereum#readme",  
   "devDependencies": {
     "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.7.21",
     "global-modules": "^2.0.0",
     "mocha": "^9.2.1",
     "node-emoji": "^1.11.0",
