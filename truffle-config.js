@@ -15,5 +15,5 @@ module.exports = {
      showTimeSpent: false
     }
   },
-  plugins: ["solidity-coverage"],
+  plugins: ["solidity-coverage", "truffle-contract-size"],
 };
