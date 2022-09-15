@@ -31,7 +31,8 @@
     "node-emoji": "^1.11.0",
     "solidity-coverage": "^0.7.21",
     "truffle": "^5.1.65",
-    "truffle-plugin-hello": "^1.0.1"
+    "truffle-plugin-hello": "^1.0.1",
+    "ganache-core": "2.13.0"
   },
   "dependencies": {
     "detect-port": "^1.3.0",
