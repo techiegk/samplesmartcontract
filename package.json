@@ -29,6 +29,7 @@
     "json-stringify-safe": "^5.0.1",
     "mocha": "^9.2.1",
     "node-emoji": "^1.11.0",
+    "truffle-contract-size": "^2.0.1",
     "solidity-coverage": "^0.8.1"
   },
   "dependencies": {
