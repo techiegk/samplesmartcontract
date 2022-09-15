@@ -1,8 +1,8 @@
 module.exports = {
   networks: {
-    coverage: {
+    development: {
       host: "127.0.0.1",
-      port: 8555,
+      port: 8545,
       network_id: "*" // Match any network id
     },
     // add a new network definition that will self host TestRP
